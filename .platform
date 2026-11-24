@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "Report",
+    "displayName": "Travel Agencies Project"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "b45f37b1-ab3b-47b6-9d0f-3d8e291d58f9"
+  }
+}
